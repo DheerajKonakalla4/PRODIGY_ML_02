@@ -62,9 +62,6 @@ python customer_segmentation.py
 The output is a scatter plot showing customer segments:
 
 ![Customer Segments](output.png)
-
-*Make sure `output.png` is saved in the project directory and committed to GitHub.*
-
 ---
 
 ## 📦 Requirements
